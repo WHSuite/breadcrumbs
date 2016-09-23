@@ -1,0 +1,17 @@
+{
+    "name": "whsuite/breadcrumbs",
+    "description": "Breadcrumb helper for WHSuite Framework",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Whsuite\\Breadcrumbs" : "src/"
+        }
+    }
+}
