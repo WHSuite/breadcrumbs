@@ -1,7 +1,7 @@
 {
     "name": "whsuite/breadcrumbs",
     "description": "Breadcrumb helper for WHSuite Framework",
-    "license": "Private",
+    "license": "MIT",
     "authors": [
         {
             "name": "WHSuite",
